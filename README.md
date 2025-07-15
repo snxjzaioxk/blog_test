@@ -1,1 +1,1 @@
-# blopg_test
+bailanwa.dpdns.org/blog_test/
